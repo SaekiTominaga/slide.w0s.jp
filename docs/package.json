@@ -1,0 +1,9 @@
+{
+	"name": "slide.w0s.jp-docs",
+	"version": "1.0.0",
+	"description": "slide.w0s.jp-docs",
+	"repository": {},
+	"dependencies": {
+		"@saekitominaga/customelements-button-media-sameplay": "^1.1.0"
+	}
+}

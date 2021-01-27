@@ -1,0 +1,22 @@
+{
+	"name": "slide.w0s.jp",
+	"version": "1.0.0",
+	"description": "slide.w0s.jp",
+	"homepage": "https://github.com/SaekiTominaga/slide.w0s.jp#readme",
+	"bugs": {
+		"url": "https://github.com/SaekiTominaga/slide.w0s.jp/issues"
+	},
+	"author": "Saeki Tominaga",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SaekiTominaga/slide.w0s.jp.git"
+	},
+	"scripts": {
+		"build:css": "postcss docs/assets/style/src/slide.css -m --config ./ -o docs/assets/style/dist/slide.css -w"
+	},
+	"devDependencies": {
+		"postcss": "^8.2.4",
+		"postcss-cli": "^8.3.1",
+		"postcss-nesting": "^7.0.1"
+	}
+}
