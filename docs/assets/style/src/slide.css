@@ -17,12 +17,12 @@
 		}
 
 		& h2 {
-			margin-bottom: .75em;
+			margin-bottom: 0.75em;
 			font-size: 1.75em;
 		}
 
 		& h3 {
-			margin-bottom: .5em;
+			margin-bottom: 0.5em;
 			font-size: 1.25em;
 		}
 
@@ -31,7 +31,7 @@
 
 			& > li {
 				& + li {
-					margin-top: .25em;
+					margin-top: 0.25em;
 				}
 			}
 
@@ -131,7 +131,7 @@
 
 	/* 小見出し */
 	& .slide_subheading {
-		margin: .25em 0;
+		margin: 0.25em 0;
 		display: block;
 		font-size: 2rem;
 		font-weight: normal;
@@ -139,7 +139,7 @@
 
 	/* 注釈 */
 	& .slide_note {
-		font-size: .5em;
+		font-size: 0.5em;
 	}
 
 	/* タイル状レイアウト */
@@ -161,7 +161,7 @@
 	/* 埋め込みコンテンツのキャプション */
 	& .slide_embedded_caption {
 		display: block;
-		font-size: .5em;
+		font-size: 0.5em;
 		font-weight: bold;
 		text-align: center;
 	}
