@@ -2,6 +2,10 @@
 	"name": "slide.w0s.jp",
 	"version": "1.0.0",
 	"description": "slide.w0s.jp",
+	"homepage": "https://github.com/SaekiTominaga/slide.w0s.jp#readme",
+	"bugs": {
+		"url": "https://github.com/SaekiTominaga/slide.w0s.jp/issues"
+	},
 	"author": "Saeki Tominaga",
 	"repository": {
 		"type": "git",
