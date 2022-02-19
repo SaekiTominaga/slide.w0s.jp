@@ -12,17 +12,17 @@
 		"url": "git+https://github.com/SaekiTominaga/slide.w0s.jp.git"
 	},
 	"scripts": {
-		"build:css": "postcss docs/assets/style/src/slide.css -m --config ./ -o docs/assets/style/dist/slide.css -w"
+		"build:css": "postcss public/assets/style/src/slide.css -m --config ./ -o public/assets/style/dist/slide.css -w"
 	},
 	"devDependencies": {
-		"cssnano": "^5.0.2",
-		"postcss": "^8.2.15",
-		"postcss-cli": "^8.3.1",
-		"postcss-nesting": "^8.0.1",
-		"prettier": "^2.3.0",
-		"stylelint": "^13.13.1",
-		"stylelint-config-prettier": "^8.0.2",
-		"stylelint-config-standard": "^22.0.0",
-		"stylelint-prettier": "^1.2.0"
+		"cssnano": "^5.0.17",
+		"postcss": "^8.4.6",
+		"postcss-cli": "^9.1.0",
+		"postcss-nesting": "^10.1.2",
+		"prettier": "^2.5.1",
+		"stylelint": "^14.5.1",
+		"stylelint-config-prettier": "^9.0.3",
+		"stylelint-config-standard": "^25.0.0",
+		"stylelint-prettier": "^2.0.0"
 	}
 }
